@@ -5,7 +5,9 @@ Hi, uhh im Sylvia, 15 year old amateur programmer, I have problems, I code a lot
 
 ## Stats
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Sylvie-Dev&theme=dark)](https://git.io/streak-stats) 
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sylvie-Dev&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 *Wakatime Stats (Since 3/30/2023):*
 <p align="center">
     <a href="https://wakatime.com/@Sylvia">
