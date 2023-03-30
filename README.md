@@ -6,7 +6,7 @@ Hi, uhh im Sylvia, 15 year old amateur programmer, I have problems, I code a lot
 ## Stats
 *Github Streaks
 <p align="center">
-    <img alt="Top Langs" src="https://github.com/anuraghazra/github-readme-stats">
+    <img alt="Github Streaks" src="https://github-readme-stats.vercel.app/api?username=Sylvie-Dev">
 </p>
 *Top lang
 <p align="center">
