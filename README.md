@@ -12,7 +12,7 @@ Hi, uhh im Sylvia, 15 year old amateur programmer, I have problems, I code a lot
 <p align="center">
     <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sylvie-Dev&theme=dark">
 </p>
-*Wakatime Stats (Since 3/30/2023):*
+*Last 7 days
 <p align="center">
     <a href="https://wakatime.com/@Sylvia">
         <img alt="Wakatime profile" src="https://github-readme-stats.vercel.app/api/wakatime?username=Sylvia&layout=compact&langs_count=5&&theme=dracula&hide_border=true&bg_color=1a1c1f&icon_color=4e90f0&title=e74545&border_radius=10">
